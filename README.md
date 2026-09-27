@@ -33,13 +33,13 @@
 ## 🚀 Installation
 
 ### Windows (Executable)
-1. Download the latest `AquaClicker.exe` from the [Releases](#) page.
+1. Download the latest `.exe` from the [Releases](#) page.
 2. Run the application (no installation required).
 
 ### Building from Source
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/AquaClicker.git
+git clone https://github.com/SpiralMotorman/AquaClicker.git
 
 # Navigate to project directory
 cd AquaClicker
