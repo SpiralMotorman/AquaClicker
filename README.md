@@ -33,7 +33,7 @@
 ## 🚀 Installation
 
 ### Windows (Executable)
-1. Download the latest `.exe` from the [Releases](#) page.
+1. Download the latest `.exe` from the [landing](https://spiralmotorman.github.io/AquaClicker/) page.
 2. Run the application (no installation required).
 
 ### Building from Source
