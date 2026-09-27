@@ -1,6 +1,6 @@
 <div align="center">
 
-![AquaClicker Banner](assets/banner.png)
+![AquaClicker Banner](assets/banner.jpg)
 
 # 🌊 AquaClicker
 
